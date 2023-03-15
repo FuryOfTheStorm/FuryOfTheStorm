@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FuryOfTheStorm
 - 👀 I’m interested in mobile app's development and language C#
-- 🌱 I’m currently learning web app's development with PHP, JavaScript and CSS
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
